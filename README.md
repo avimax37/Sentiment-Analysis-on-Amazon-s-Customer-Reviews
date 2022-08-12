@@ -17,8 +17,8 @@ Avinaba Bera
 
 ## Project Links
 
-[![Blogger][blogger-shield]][blogger-url]<br>
-[![GitHub][github-shield]][github-url]<br>
+[![Blogger][blogger-shield]][blogger-url]
+[![GitHub][github-shield]][github-url]
 
 <!--MARKDOWNS-->
 
