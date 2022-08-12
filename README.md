@@ -15,7 +15,9 @@ Sentiment analysis or opinion mining is a field of study that analyzes people's 
 [![Jupyter Notebook][jupiter-shield]][jupiter-url]
 
 <!-- APPLICATIONS -->
+
 ## Applications
+
 Sentiment analysis tools can be used by organizations for a variety of application, including:
 
 * Identifying brand awareness, reputation and popularity at a specific moment or over time.
@@ -48,6 +50,7 @@ Deepsagar Boral<br>
 [![LinkedIn][linkedin-shield]][linkedin-url6]
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.md` for more information.
@@ -80,9 +83,6 @@ Avinaba Bera
 [linkedin-url4]: https://www.linkedin.com/in/masud-gazi-46123422a
 [linkedin-url5]: https://www.linkedin.com/in/gurjot-singh-5bb1871b9
 [linkedin-url6]: https://www.linkedin.com/in/deepsagar-boral-059713194
-
-[facebook-shield]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
-[facebook-url]: https://www.facebook.com/profile.php?id=100004087700746
 
 [blogger-shield]: https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
 [blogger-url]: https://uemkprojects2023.blogspot.com/2022/08/sentiment-analysis-on-amazons-customer.html
