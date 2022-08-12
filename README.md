@@ -34,20 +34,12 @@ Sentiment analysis tools can be used by organizations for a variety of applicati
 
 Contributions are what make the GitHub community such an amazing place to learn, inspire, and create. These are all the members that have directly contributed towards the completion of this project.
 
-Vishal Kumar Shaw<br>
-[![LinkedIn][linkedin-shield]][linkedin-url2]
-
-Sneha Shaw<br>
-[![LinkedIn][linkedin-shield]][linkedin-url3]
-
-Masud Gazi<br>
-[![LinkedIn][linkedin-shield]][linkedin-url4]
-
-Gurjot Singh<br>
-[![LinkedIn][linkedin-shield]][linkedin-url5]
-
-Deepsagar Boral<br>
-[![LinkedIn][linkedin-shield]][linkedin-url6]
+| Vishal Kumar Shaw | [![LinkedIn][linkedin-shield]][linkedin-url2] |
+|--|--|
+| Sneha Shaw | [![LinkedIn][linkedin-shield]][linkedin-url3] |
+| Masud Gazi | [![LinkedIn][linkedin-shield]][linkedin-url4] |
+| Gurjot Singh | [![LinkedIn][linkedin-shield]][linkedin-url5] |
+| Deepsagar Boral | [![LinkedIn][linkedin-shield]][linkedin-url6] |
 
 <!-- LICENSE -->
 
