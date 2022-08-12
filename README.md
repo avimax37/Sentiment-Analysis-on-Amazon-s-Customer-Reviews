@@ -26,11 +26,14 @@ Vishal Kumar Shaw<br>
 Sneha Shaw<br>
 [![Github][github-shield]][github-url2]
 
-Masud Gazi
+Masud Gazi<br>
 [![LinkedIn][linkedin-shield]][linkedin-url2]
 
-Gurjot Singh
-Deepsagar Boral
+Gurjot Singh<br>
+
+
+Deepsagar Boral<br>
+[![LinkedIn][linkedin-shield]][linkedin-url3]
 
 <!-- CONTACT -->
 
@@ -56,6 +59,7 @@ Avinaba Bera
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/avinaba-bera
 [linkedin-url2]: https://www.linkedin.com/in/masud-gazi-46123422a
+[linkedin-url3]: https://www.linkedin.com/in/deepsagar-boral-059713194
 
 [facebook-shield]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
 [facebook-url]: https://www.facebook.com/profile.php?id=100004087700746
