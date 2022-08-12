@@ -20,7 +20,7 @@ Sentiment analysis or opinion mining is a field of study that analyzes people's 
 
 Contributions are what make the GitHub community such an amazing place to learn, inspire, and create. These are all the members that have directly contributed towards the completion of this project.
 
-### Vishal Kumar Shaw
+#### Vishal Kumar Shaw
 ### Sneha Shaw [![Github][github-shield]][github-url]
 ### Masud Gazi
 ### Gurjot Singh
