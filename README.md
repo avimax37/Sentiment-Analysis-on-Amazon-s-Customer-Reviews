@@ -13,7 +13,7 @@ Sentiment analysis or opinion mining is a field of study that analyzes people's 
 Avinaba Bera
 
 [![Twitter][twitter-shield]][twitter-url]
-[![Gmail][gmail-shield]][gmail-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project Article: [blogger.com/Sentiment-Analysis-on-Amazon's-Customer-Reviews](https://uemkprojects2023.blogspot.com/2022/08/sentiment-analysis-on-amazons-customer.html)<br>
 ## ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
@@ -24,5 +24,5 @@ Project Article: [blogger.com/Sentiment-Analysis-on-Amazon's-Customer-Reviews](h
 [twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
 [twitter-url]: https://twitter.com/IainSchneider
 
-[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: avimax37@gmail.com
+[linkedin-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/avinaba-bera/
