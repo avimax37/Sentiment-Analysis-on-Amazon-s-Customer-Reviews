@@ -21,19 +21,19 @@ Sentiment analysis or opinion mining is a field of study that analyzes people's 
 Contributions are what make the GitHub community such an amazing place to learn, inspire, and create. These are all the members that have directly contributed towards the completion of this project.
 
 Vishal Kumar Shaw<br>
-[![Facebook][facebook-shield]][facebook-url]
-
-Sneha Shaw<br>
-[![Github][github-shield]][github-url2]
-
-Masud Gazi<br>
 [![LinkedIn][linkedin-shield]][linkedin-url2]
 
-Gurjot Singh<br>
+Sneha Shaw<br>
+[![LinkedIn][linkedin-shield]][linkedin-url3]
 
+Masud Gazi<br>
+[![LinkedIn][linkedin-shield]][linkedin-url4]
+
+Gurjot Singh<br>
+[![LinkedIn][linkedin-shield]][linkedin-url5]
 
 Deepsagar Boral<br>
-[![LinkedIn][linkedin-shield]][linkedin-url3]
+[![LinkedIn][linkedin-shield]][linkedin-url6]
 
 <!-- CONTACT -->
 
@@ -58,8 +58,11 @@ Avinaba Bera
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/avinaba-bera
-[linkedin-url2]: https://www.linkedin.com/in/masud-gazi-46123422a
-[linkedin-url3]: https://www.linkedin.com/in/deepsagar-boral-059713194
+[linkedin-url2]: https://www.linkedin.com/in/vishal-kumar-shaw-21a985192
+[linkedin-url3]: https://www.linkedin.com/in/sneha-shaw-8972a5189
+[linkedin-url4]: https://www.linkedin.com/in/masud-gazi-46123422a
+[linkedin-url5]: https://www.linkedin.com/in/gurjot-singh-5bb1871b9
+[linkedin-url6]: https://www.linkedin.com/in/deepsagar-boral-059713194
 
 [facebook-shield]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white
 [facebook-url]: https://www.facebook.com/profile.php?id=100004087700746
@@ -69,7 +72,6 @@ Avinaba Bera
 
 [github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [github-url]: https://github.com/avimax37/Sentiment-Analysis-on-Amazon-s-Customer-Review
-[github-url2]: https://github.com/Sneha-Shaw
 
 [jupiter-shield]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
 [jupiter-url]: https://jupyter.org
