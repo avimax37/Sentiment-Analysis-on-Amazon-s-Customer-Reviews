@@ -1,7 +1,5 @@
 # Sentiment Analysis on Amazon's Customer Reviews
 
-[![Contributors][contributors-shield]][contributors-url]
-
 ## About The Project
 
 Sentiment analysis or opinion mining is a field of study that analyzes people's sentiments, attitudes, or emotions towards certain entities. This project tackles a fundamental problem of sentiment analysis, sentiment polarity categorization. Online product reviews from Amazon are selected as data used for this study. A sentiment polarity categorization process has been proposed along with detailed descriptions of each step. Experiments for both sentence-level categorization and review-level categorization have been performed.
