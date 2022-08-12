@@ -18,13 +18,13 @@ Sentiment analysis or opinion mining is a field of study that analyzes people's 
 ## Applications
 Sentiment analysis tools can be used by organizations for a variety of application, including:
 
-*Identifying brand awareness, reputation and popularity at a specific moment or over time.
-*Tracking consumer reception of new products or features.
-*Evaluating the success of marketing campaign.
-*Pinpointing the target audience or demographics.
-*Collecting customer feedback from social media, websites or online forms.
-*Conducting market research.
-*Categorizing customer service requests.
+* Identifying brand awareness, reputation and popularity at a specific moment or over time.
+* Tracking consumer reception of new products or features.
+* Evaluating the success of marketing campaign.
+* Pinpointing the target audience or demographics.
+* Collecting customer feedback from social media, websites or online forms.
+* Conducting market research.
+* Categorizing customer service requests.
 
 <!-- CONTRIBUTIONS -->
 
