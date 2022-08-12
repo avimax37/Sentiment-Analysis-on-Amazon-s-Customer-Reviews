@@ -18,8 +18,7 @@ Avinaba Bera
 ## Project Links
 
 [![Blogger][blogger-shield]][blogger-url]<br>
-## ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
-[github.com/avimax37/Sentiment-Analysis-on-Amazon-s-Customer-Review](https://github.com/avimax37/Sentiment-Analysis-on-Amazon-s-Customer-Review)
+[![GitHub][github-shield]][github-url]<br>
 
 <!--MARKDOWNS-->
 
@@ -31,3 +30,6 @@ Avinaba Bera
 
 [blogger-shield]: https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
 [blogger-url]: https://uemkprojects2023.blogspot.com/2022/08/sentiment-analysis-on-amazons-customer.html
+
+[github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/avimax37/Sentiment-Analysis-on-Amazon-s-Customer-Review
