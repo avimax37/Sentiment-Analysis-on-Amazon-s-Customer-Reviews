@@ -12,7 +12,7 @@ Sentiment analysis or opinion mining is a field of study that analyzes people's 
 
 Avinaba Bera - [@IainSchneider](https://twitter.com/IainSchneider) - avimax37@gmail.com<br>
 
-![Twitter][twitter-shield][twitter-url]
+[![Twitter][twitter-shield]][twitter-url]
 
 Project Article: [blogger.com/Sentiment-Analysis-on-Amazon's-Customer-Reviews](https://uemkprojects2023.blogspot.com/2022/08/sentiment-analysis-on-amazons-customer.html)<br>
 ## ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
