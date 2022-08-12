@@ -6,8 +6,7 @@ Sentiment analysis or opinion mining is a field of study that analyzes people's 
 
 ## Built With
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
+[![Jupyter Notebook][jupiter-shield]][jupiter-url]
 ## Contact
 
 Avinaba Bera
@@ -26,10 +25,13 @@ Avinaba Bera
 [twitter-url]: https://twitter.com/IainSchneider
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/avinaba-bera/
+[linkedin-url]: https://www.linkedin.com/in/avinaba-bera
 
 [blogger-shield]: https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
 [blogger-url]: https://uemkprojects2023.blogspot.com/2022/08/sentiment-analysis-on-amazons-customer.html
 
 [github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [github-url]: https://github.com/avimax37/Sentiment-Analysis-on-Amazon-s-Customer-Review
+
+[jupiter-shield]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
+[jupiter-url]: https://jupyter.org
