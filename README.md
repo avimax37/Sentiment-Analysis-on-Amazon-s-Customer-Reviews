@@ -35,6 +35,11 @@ Gurjot Singh<br>
 Deepsagar Boral<br>
 [![LinkedIn][linkedin-shield]][linkedin-url6]
 
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.md` for more information.
+
 <!-- CONTACT -->
 
 ## Contact
