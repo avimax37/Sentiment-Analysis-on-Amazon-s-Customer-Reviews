@@ -18,4 +18,4 @@ Project Article: [blogger.com/Sentiment-Analysis-on-Amazon's-Customer-Reviews](h
 ## ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
 [github.com/avimax37/Sentiment-Analysis-on-Amazon-s-Customer-Review](https://github.com/avimax37/Sentiment-Analysis-on-Amazon-s-Customer-Review)
 
-[linkedin-url]: https://twitter.com/IainSchneider
+[twitter-url]: https://twitter.com/IainSchneider
