@@ -15,7 +15,9 @@ Avinaba Bera
 [![Twitter][twitter-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project Article: [blogger.com/Sentiment-Analysis-on-Amazon's-Customer-Reviews](https://uemkprojects2023.blogspot.com/2022/08/sentiment-analysis-on-amazons-customer.html)<br>
+## Project Links
+
+[![Blogger][blogger-shield]][blogger-url]<br>
 ## ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
 [github.com/avimax37/Sentiment-Analysis-on-Amazon-s-Customer-Review](https://github.com/avimax37/Sentiment-Analysis-on-Amazon-s-Customer-Review)
 
@@ -26,3 +28,6 @@ Project Article: [blogger.com/Sentiment-Analysis-on-Amazon's-Customer-Reviews](h
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/avinaba-bera/
+
+[blogger-shield]: https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white
+[blogger-url]: https://uemkprojects2023.blogspot.com/2022/08/sentiment-analysis-on-amazons-customer.html
